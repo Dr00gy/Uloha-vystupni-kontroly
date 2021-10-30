@@ -1,0 +1,139 @@
+Address	Status-Code	Status-Text	Type	Size	Title	Date	Level	Links Out	Links In	Server	Error	Duration	Charset	Description
+http://frontend-ukol-pro-testera-1.dev.poski.com/	200	ok	text/html	26098	Projektové řízení a poradenství | InvePRO group		0	46	14	Apache/2.4.46 (Ubuntu)		00:07.843	utf-8	Projektové řízení a poradenství
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/fonts/Montserrat/Montserrat-medium-normal.woff2	200	ok	text/html	31112			1		25	Apache/2.4.46 (Ubuntu)		00:00.168	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/fonts/Montserrat/Montserrat-bold-normal.woff2	200	ok	text/html	31304			1		25	Apache/2.4.46 (Ubuntu)		00:00.233	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/fonts/Montserrat/Montserrat-light-normal.woff2	200	ok	text/html	30856			1		25	Apache/2.4.46 (Ubuntu)		00:00.235	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/fonts/Montserrat/Montserrat-black-normal.woff2	200	ok	text/html	30968			1		25	Apache/2.4.46 (Ubuntu)		00:00.329	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584188-3ba9cfe2849472e3352637feef93f7ae7aa94f6c.css	200	ok	text/css	38881		30.10.2021  08:56:28	1	9	1	Apache/2.4.46 (Ubuntu)		00:00.338	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/favicons/favicon.ico	200	ok	text/html	15086			1		15	Apache/2.4.46 (Ubuntu)		00:00.392	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/favicons/apple-touch-icon.png	200	ok	image/png	1560			1		15	Apache/2.4.46 (Ubuntu)		00:00.386	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/favicons/favicon-32x32.png	200	ok	image/png	1472			1		15	Apache/2.4.46 (Ubuntu)		00:00.429	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/favicons/favicon-16x16.png	200	ok	image/png	966			1		15	Apache/2.4.46 (Ubuntu)		00:00.428	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/favicons/site.webmanifest	200	ok	text/html	426			1		15	Apache/2.4.46 (Ubuntu)		00:00.498	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/logo.svg	200	ok	image/svg+xml	35935	Logo		1		15	Apache/2.4.46 (Ubuntu)		00:00.477	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/nase-spolecnosti/	500	server error			Naše společnosti		1		15	Apache/2.4.46 (Ubuntu)		00:00.183	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/o-nas/	200	ok	text/html	24103	O nás | InvePRO group		1	34	14	Apache/2.4.46 (Ubuntu)		00:01.301	utf-8	Naše společnost funguje již 25 let na trhu a za tu dobu se stala primárním poskytovatelem finančních služeb. V průběhu let, kdy jsme postupně rostli, se…
+http://frontend-ukol-pro-testera-1.dev.poski.com/kontakty/	200	ok	text/html	26272	Kontakty | InvePRO group		1	38	14	Apache/2.4.46 (Ubuntu)		00:01.770	utf-8	Invepro GroupKrajinská 33/5 370 01České BudějoviceSpolečnost zapsána v obchodním rejstříku Krajským soudem v Českých Budějovicích, oddíl C vložka 9087+420…
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/dok.jpg	200	ok	image/jpg	25295	images		1		1	Apache/2.4.46 (Ubuntu)		00:01.399	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/yaris.png	200	ok	image/png	8474	yaris-logo		1		1	Apache/2.4.46 (Ubuntu)		00:01.447	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/development.jpg	200	ok	image/jpg	302341	Development		1		1	Apache/2.4.46 (Ubuntu)		00:01.489	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/byty.png	200	ok	image/png	3740	logo		1		1	Apache/2.4.46 (Ubuntu)		00:01.534	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/odkud.jpg	200	ok	image/jpg	118392	images		1		1	Apache/2.4.46 (Ubuntu)		00:01.583	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/odkud.png	200	ok	image/png	3968	logo		1		1	Apache/2.4.46 (Ubuntu)		00:01.626	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/dlouhodoby.jpg	200	ok	image/jpg	155554	images		1		1	Apache/2.4.46 (Ubuntu)		00:01.664	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/ba.png	200	ok	image/png	15921	logo		1		1	Apache/2.4.46 (Ubuntu)		00:01.707	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/ubytovani.jpg	200	ok	image/jpg	187687	Ubytovani		1		1	Apache/2.4.46 (Ubuntu)		00:01.767	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/apartment.png	200	ok	image/png	8046	logo		1		1	Apache/2.4.46 (Ubuntu)		00:01.778	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/montovane.jpg	200	ok	image/jpg	345004	images		1		1	Apache/2.4.46 (Ubuntu)		00:02.240	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/herny.png	200	ok	image/png	9644	logo		1		1	Apache/2.4.46 (Ubuntu)		00:01.890	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/vicBg.jpg	200	ok	image/jpg	806643	Image		1		1	Apache/2.4.46 (Ubuntu)		00:02.079	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/casto-kladene-otazky/	200	ok	text/html	21930	Otázky a odpovědi - FAQ | InvePRO group		1	35	14	Apache/2.4.46 (Ubuntu)		00:02.271	utf-8	Otázky a odpovědi - FAQ
+http://frontend-ukol-pro-testera-1.dev.poski.com/aktuality/	200	ok	text/html	28475	Aktuality | InvePRO group		1	65	14	Apache/2.4.46 (Ubuntu)		00:02.166	utf-8	Aktuality
+http://frontend-ukol-pro-testera-1.dev.poski.com/blog/	200	ok	text/html	21154	Blog | InvePRO group		1	35	14	Apache/2.4.46 (Ubuntu)		00:00.321	utf-8	Blog
+tel:+420608820559	404	not found			+420 608 820 559		1		15			00:00.000	utf-8	
+https://vyvoj.dev.poski.loc/dokument/obchodni-podminky/1/	12007	no such host			Obchodní podmínky		1		15		Nelze rozpoznat n�zev nebo adresu serveru.	00:00.000	utf-8	
+https://vyvoj.dev.poski.loc/dokument/zpracovani-udaju/1/	12007	no such host			Zpracování osobních údajů		1		15			00:00.000	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/cookies/	200	ok	text/html	26699	Cookies | InvePRO group		1	39	14	Apache/2.4.46 (Ubuntu)		00:00.600	utf-8	Cookies
+https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2636860.1520070313!2d15.47491255!3d49.80376329999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2scz!4v1629039517979!5m2!1sru!2scz	200	ok	text/html				1		15	mafe		00:00.595	utf-8	
+https://www.poski.com/	200	ok	text/html		Webové stránky		1		15	nginx		00:00.955	utf-8	
+http://poski.com/webdesign-tvorba-www-stranek	200	ok	text/html		Tvorba webových stránek		1	1	15	nginx		00:00.110	iso-8859-1	
+http://frontend-ukol-pro-testera-1.dev.poski.com/cookies/?eu_cookie_consent=1	200	ok	text/html		                 <span>Rozumím</span>             		1	1	15	Apache/2.4.46 (Ubuntu)		00:01.848	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584188-4d42ffdd2977c06aed626aa7566c3d99a3bbbb85.js	200	ok	application/javascript	8403		30.10.2021  08:56:28	1		9	Apache/2.4.46 (Ubuntu)		00:01.671	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/title.svg	200	ok	image/svg+xml	1053			2		1	Apache/2.4.46 (Ubuntu)		00:01.493	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/aktualne.svg	200	ok	image/svg+xml	679			2		1	Apache/2.4.46 (Ubuntu)		00:01.643	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/header-bg.jpg	200	ok	image/jpg	872901			2		1	Apache/2.4.46 (Ubuntu)		00:00.190	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/header-graph.svg	200	ok	image/svg+xml	36429			2		1	Apache/2.4.46 (Ubuntu)		00:00.235	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/images/footer-graph.svg	200	ok	image/svg+xml	36195			2		10	Apache/2.4.46 (Ubuntu)		00:01.355	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584190-f2119a6af9322ecac1fb229b5ebcf1f3cc2cc1fd.css	200	ok	text/css	39692		30.10.2021  08:56:30	2	5	4	Apache/2.4.46 (Ubuntu)		00:01.914	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584190-4d44cd537660a599abe5df86c4e31385abe7d8ff.css	200	ok	text/css	42410		30.10.2021  08:56:30	2	5	1	Apache/2.4.46 (Ubuntu)		00:00.487	utf-8	
+tel:+420%20608%20820%20559	404	not found			+420 608 820 559		2		1			00:00.000	utf-8	
+tel:+420%20389%20600%20130	404	not found			+420 389 600 130		2		1			00:00.000	utf-8	
+https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2618.8362360684287!2d14.471226716025612!3d48.975641700397105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47734fce491cb2bd%3A0x2aab7c81df2d0419!2zS3Jhamluc2vDoSAzMy81LCDEjGVza8OpIEJ1ZMSbam92aWNlIDEsIDM3MCAwMSDEjGVza8OpIEJ1ZMSbam92aWNl!5e0!3m2!1scs!2scz!4v1629295183003!5m2!1scs!2scz	200	ok	text/html				2		1	mafe		00:00.724	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/dokument/zpracovani-udaju/1/	200	ok	text/html	21909	Zpracování osobních údajů | InvePRO group		2	36	1	Apache/2.4.46 (Ubuntu)		00:00.281	utf-8	Zpracování osobních údajů
+http://frontend-ukol-pro-testera-1.dev.poski.com/cookies/?	200	ok	text/html	26705	Cookies | InvePRO group		2	41	2	Apache/2.4.46 (Ubuntu)		00:02.622	utf-8	Cookies
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584191-f5016df750e5556f395e3ca21c8bb4a5a0bfed2a.css	200	ok	text/css	35778		30.10.2021  08:56:31	2	5	1	Apache/2.4.46 (Ubuntu)		00:01.815	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/storage/thumbs/200x200-scalecrop/no-picture.jpg	200	ok	image/jpeg	7218		29.10.2021  14:56:51	2		1	Apache/2.4.46 (Ubuntu)		00:00.628	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/aktuality/montovane-domky-11/	200	ok	text/html	24657	Montované domky | InvePRO group		2	41	1	Apache/2.4.46 (Ubuntu)		00:01.105	utf-8	Montované domky
+http://frontend-ukol-pro-testera-1.dev.poski.com/aktuality/ubytovani-10/	200	ok	text/html	23436	Ubytování | InvePRO group		2	37	1	Apache/2.4.46 (Ubuntu)		00:02.330	utf-8	Ubytování
+http://frontend-ukol-pro-testera-1.dev.poski.com/aktuality/dlouhodoby-pronajem-aut-9/	200	ok	text/html	23587	Dlouhodobý pronájem aut | InvePRO group		2	37	1	Apache/2.4.46 (Ubuntu)		00:02.167	utf-8	Dlouhodobý pronájem aut
+http://frontend-ukol-pro-testera-1.dev.poski.com/aktuality/spoluprace-s-klienty-8/	200	ok	text/html	27698	Spolupráce s klienty | InvePRO group		2	42	1	Apache/2.4.46 (Ubuntu)		00:02.305	utf-8	Zde si  můžete přečíst o naší spolupráci s klienty, tak směle do toho.
+http://frontend-ukol-pro-testera-1.dev.poski.com/aktuality/nas-pribeh-7/	200	ok	text/html	27171	Náš příběh | InvePRO group		2	40	1	Apache/2.4.46 (Ubuntu)		00:01.352	utf-8	Znáte nás příběh? Pokud ne, jistě vás bude zajímat, jak to s námi celé bylo.
+http://frontend-ukol-pro-testera-1.dev.poski.com/aktuality/informace-o-nove-verzi-e-shopu-clevero-9-1-0-6/	200	ok	text/html	35589	INFORMACE O NOVÉ VERZI E-SHOPU CLEVERO – 9.1.0 | InvePRO group		2	91	1	Apache/2.4.46 (Ubuntu)		00:01.297	utf-8	Očividně to myslíte opravdu vážně a chcete být velkým hráčem na e-commerce trhu. Pojďme společně vybudovat úspěšný business.
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/libraries/scroll-to-form-notification.min.js	200	ok	application/javascript	540			2		1	Apache/2.4.46 (Ubuntu)		00:00.642	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/global/utilities.min.js	200	ok	application/javascript	198			2		1	Apache/2.4.46 (Ubuntu)		00:01.835	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/global/templating.min.js	200	ok	application/javascript	370			2		1	Apache/2.4.46 (Ubuntu)		00:01.617	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/global/event-bus.min.js	200	ok	application/javascript	702			2		1	Apache/2.4.46 (Ubuntu)		00:01.680	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/global/component.min.js	200	ok	application/javascript	1179			2		1	Apache/2.4.46 (Ubuntu)		00:00.389	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/navigation/@common/navigation.min.js	200	ok	application/javascript	900			2		1	Apache/2.4.46 (Ubuntu)		00:01.494	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/quick-search/@common/quick-search.min.js	200	ok	application/javascript	2386			2		1	Apache/2.4.46 (Ubuntu)		00:01.732	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/navigation/_adminweb2/navigation.min.js	200	ok	application/javascript	130			2		1	Apache/2.4.46 (Ubuntu)		00:00.191	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/quick-search/_std/quick-search.min.js	200	ok	application/javascript	128			2		1	Apache/2.4.46 (Ubuntu)		00:01.921	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/header/_web2/header.min.js	200	ok	application/javascript	885			2		1	Apache/2.4.46 (Ubuntu)		00:00.531	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/cookies-bar/_std/cookies-bar.min.js	200	ok	application/javascript	391			2		1	Apache/2.4.46 (Ubuntu)		00:01.967	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/spinner/global/_base/spinner-global.min.js	200	ok	application/javascript	442			2		1	Apache/2.4.46 (Ubuntu)		00:02.012	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/init/init.min.js	200	ok	application/javascript	129			2		1	Apache/2.4.46 (Ubuntu)		00:01.877	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584191-0eb77033e68b773c20828e6ff730d9b0e4355bc3.css	200	ok	text/css	41244		30.10.2021  08:56:31	2	5	1	Apache/2.4.46 (Ubuntu)		00:01.439	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584191-90cda1a67f2e3f9e86c438e93c6fec11f1098273.js	200	ok	application/javascript	9016		30.10.2021  08:56:31	2		1	Apache/2.4.46 (Ubuntu)		00:00.630	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584191-826c07b680d5e24c0c1fe5f3e78393855dbe69cd.css	200	ok	text/css	34000		30.10.2021  08:56:31	2	5	1	Apache/2.4.46 (Ubuntu)		00:00.821	utf-8	
+http://www.google.com/ads/preferences	200	ok	text/html	251	vypnout unikátní identifikaci prohlížeče		2	1	2	content-ads-prefmgr		00:00.149	utf-8	
+https://cs.wikipedia.org/wiki/HTTP_cookie	200	ok	text/html	67691	wikipedia.org	15.10.2021  10:19:53	2		2	mw1371.eqiad.wmnet		00:00.395	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/cookies/?eu_cookie_consent=0	200	ok	text/html		Zakázat cookies		2	1	2	Apache/2.4.46 (Ubuntu)		00:00.819	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/libraries/lightgallery/lightgallery.min.css	200	ok	text/css	25685			3	9	1	Apache/2.4.46 (Ubuntu)		00:00.355	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/base/base.min.css	200	ok	text/css	12170			3	4	1	Apache/2.4.46 (Ubuntu)		00:00.522	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/alert/_base/alert.min.css	200	ok	text/css	870			3		1	Apache/2.4.46 (Ubuntu)		00:00.859	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/views/news/detail/_std/news-detail.min.css	200	ok	text/css	906			3		1	Apache/2.4.46 (Ubuntu)		00:00.492	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/layout/_base/layout.min.css	200	ok	text/css	118			3		1	Apache/2.4.46 (Ubuntu)		00:00.604	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/breadcrumbs/_base/breadcrumbs.min.css	200	ok	text/css	1301			3		1	Apache/2.4.46 (Ubuntu)		00:00.683	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/subpage-header/_base/subpage-header.min.css	200	ok	text/css	314			3		1	Apache/2.4.46 (Ubuntu)		00:00.546	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/styled-text/_base/styled-text.min.css	200	ok	text/css	4542			3		1	Apache/2.4.46 (Ubuntu)		00:00.241	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/video-gallery/_base/video-gallery.min.css	200	ok	text/css	780			3		1	Apache/2.4.46 (Ubuntu)		00:00.711	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/navigation/_adminweb2/navigation.min.css	200	ok	text/css	1628			3		1	Apache/2.4.46 (Ubuntu)		00:00.675	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/navigation/_adminweb2/item/navigation-item.min.css	200	ok	text/css	3658			3		1	Apache/2.4.46 (Ubuntu)		00:00.118	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/header/_web2/box/header-box.min.css	200	ok	text/css	1069			3		1	Apache/2.4.46 (Ubuntu)		00:00.776	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/quick-search/_std/item/quick-search-item.min.css	200	ok	text/css	782			3		1	Apache/2.4.46 (Ubuntu)		00:00.593	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/quick-search/_std/quick-search.min.css	200	ok	text/css	2416			3		1	Apache/2.4.46 (Ubuntu)		00:00.087	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/header/_web2/header.min.css	200	ok	text/css	2081			3		1	Apache/2.4.46 (Ubuntu)		00:00.717	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/footer/_web2/nav/footer-nav.min.css	200	ok	text/css	517			3		1	Apache/2.4.46 (Ubuntu)		00:00.318	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/footer/_web2/footer.min.css	200	ok	text/css	3114			3	1	1	Apache/2.4.46 (Ubuntu)		00:00.405	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/button/_base/button.min.css	200	ok	text/css	1957			3		1	Apache/2.4.46 (Ubuntu)		00:00.293	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/cookies-bar/_std/cookies-bar.min.css	200	ok	text/css	528			3		1	Apache/2.4.46 (Ubuntu)		00:00.770	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/components/spinner/global/_base/spinner-global.min.css	200	ok	text/css	1152			3		1	Apache/2.4.46 (Ubuntu)		00:00.459	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/wysiwyg/wysiwyg.min.css	200	ok	text/css	1485			3		1	Apache/2.4.46 (Ubuntu)		00:00.585	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/storage/thumbs/1600x1600-scaleshrink-ke/no-picture.jpg	200	ok	image/jpeg	19184	<picture><source srcset="/data/storage/thumbs/980x429-scalecrop/no-picture.jpg.webp" type="image/webp" /><img class="no-picture lazy" loading="lazy" src="/data/storage/thumbs/980x429-scalecrop/no-picture.jpg" width="980" height="429" alt="Odkup pohledáve	26.10.2021  15:54:20	3		4	Apache/2.4.46 (Ubuntu)		00:00.613	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/storage/thumbs/980x429-scalecrop/no-picture.jpg	200	ok	image/jpeg	21865	Odkup pohledávek a majetku	30.10.2021  08:56:32	3		4	Apache/2.4.46 (Ubuntu)		00:00.072	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9_1/standard_sablona.png	200	ok	image/png	27845	šablona e-shopu	15.10.2019  09:24:08	3		1	nginx		00:00.024	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9_1/lite_sablona.png	200	ok	image/png	19094	šablona e-shopu	15.10.2019  09:24:08	3		1	nginx		00:00.023	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9_1/hromadne-akce.png	200	ok	image/png	7994	Hromadné změny	15.10.2019  09:24:08	3		1	nginx		00:00.489	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9_1/posta.png	200	ok	image/png	17779	Automatické aktualizace poboček České pošty a Balíkovny	15.10.2019  09:24:08	3		1	nginx		00:00.480	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9_1/registrace2.png	200	ok	image/png	12956	registrace	15.10.2019  09:24:08	3		1	nginx		00:00.449	utf-8	
+https://www.tvorba-eshopy.cz/web/_files/propojeni-clevera-s-fb.pdf	200	ok	application/pdf	637198	Podívejte se do našeho návodu	15.10.2019  09:18:41	3		1	nginx		00:00.444	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9_1/export-fb.png	200	ok	image/png	8098	Exportujte na Facebook	15.10.2019  09:24:08	3		1	nginx		00:00.471	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9/vladimir-vanek.jpg	200	ok	image/jpeg	89934	Vladimír Vaněk	15.10.2019  09:05:52	3		1	nginx		00:00.021	utf-8	
+tel:+420775383161	404	not found			+420 775 383 161		3		1			00:00.000	utf-8	
+mailto:vladimir@poski.com	-6	mail host ok			vladimir@poski.com		3		1			00:00.000	utf-8	
+https://www.tvorba-eshopy.cz/web/_images/verze_9/filip-kosik.jpg	200	ok	image/jpeg	110564	Filip Kosík	15.10.2019  09:05:52	3		1	nginx		00:00.466	utf-8	
+http://www.youtube.com/embed/8GkB8Kbi6O4	200	ok	application/binary				3	1	1	ESF		00:00.110	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584192-6f03919c5dfd704664f33b6f1133af16ee48fa83.js	200	ok	application/javascript	40641		30.10.2021  08:56:32	3		4	Apache/2.4.46 (Ubuntu)		00:00.335	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584192-765935c1877b62cbdaeb7ed3b6d2b391efff884f.css	200	ok	text/css	66579		30.10.2021  08:56:32	3	14	2	Apache/2.4.46 (Ubuntu)		00:00.182	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584193-c9f890f1292069d5453f0232a7f845b9272a21e6.css	200	ok	text/css	34571		30.10.2021  08:56:33	3	5	2	Apache/2.4.46 (Ubuntu)		00:00.234	utf-8	
+https://www.poski.com/data/storage/images/fo3.png	200	ok	image/png	42875	online fitness	14.01.2019  15:26:04	3		1	nginx		00:00.032	utf-8	
+https://www.poski.com/data/storage/images/fo4_1.png	200	ok	image/png	186244	online fitness ceník	14.01.2019  15:26:04	3		1	nginx		00:00.022	utf-8	
+https://www.poski.com/data/storage/images/fo6-1.png	200	ok	image/png	90591	online fitness	14.01.2019  15:26:04	3		1	nginx		00:00.092	utf-8	
+https://www.youtube.com/embed/8GkB8Kbi6O4	200	ok	text/html	55480	redir		4		1	ESF		00:00.200	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/fonts/lightgallery/lg.ttf	200	ok	text/html	3880			4		3	Apache/2.4.46 (Ubuntu)		00:00.422	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/fonts/lightgallery/lg.woff	200	ok	text/html	3956			4		3	Apache/2.4.46 (Ubuntu)		00:00.361	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/fonts/lightgallery/lg.svg	200	ok	image/svg+xml	8855			4		3	Apache/2.4.46 (Ubuntu)		00:00.479	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/CID/poski/klasik-2020/dist/libraries/img/vimeo-play.png	404	not found					4		2	Apache/2.4.46 (Ubuntu)		00:00.184	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/CID/poski/klasik-2020/dist/libraries/img/video-play.png	404	not found					4		2	Apache/2.4.46 (Ubuntu)		00:00.092	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/CID/poski/klasik-2020/dist/libraries/img/youtube-play.png	404	not found					4		2	Apache/2.4.46 (Ubuntu)		00:00.048	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/CID/poski/klasik-2020/dist/libraries/img/loading.gif	404	not found					4		2	Apache/2.4.46 (Ubuntu)		00:00.270	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/libraries/img/vimeo-play.png	404	not found					4		1	Apache/2.4.46 (Ubuntu)		00:00.047	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/libraries/img/video-play.png	404	not found					4		1	Apache/2.4.46 (Ubuntu)		00:00.096	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/libraries/img/youtube-play.png	404	not found					4		1	Apache/2.4.46 (Ubuntu)		00:00.049	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/frontend/dist/libraries/img/loading.gif	404	not found					4		1	Apache/2.4.46 (Ubuntu)		00:00.273	utf-8	
+https://www.poski.com/webdesign-tvorba-www-stranek	200	ok	text/html		redir		2	1	1	nginx		00:00.163	utf-8	
+https://www.google.com/ads/preferences/checkgoog?hl=en	200	ok	text/html	261	redir		3	1	1	content-ads-prefmgr		00:00.201	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/cache/pminify/1635584196-9cadc33126db933e3bb075e62aa46a0eb8daeb0c.css	200	ok	text/css	61931		30.10.2021  08:56:36	3	14	1	Apache/2.4.46 (Ubuntu)		00:00.346	utf-8	
+http://frontend-ukol-pro-testera-1.dev.poski.com/data/storage/thumbs/350x260-scalecrop/no-picture.jpg	200	ok	image/jpeg	14597		30.10.2021  08:56:36	3		1	Apache/2.4.46 (Ubuntu)		00:00.144	utf-8	
+https://www.poski.com/produkty/webove-stranky	200	ok	text/html		redir		3		1	nginx		00:00.273	utf-8	
+https://www.google.com/ads/preferences/html/blocked-cookies.html	200	ok	text/html		redir	12.06.2017  11:45:51	4		1	content-ads-prefmgr		00:00.035	utf-8	
